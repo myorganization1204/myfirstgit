@@ -1,1 +1,4 @@
-# myfirstgit
+# MYFIRSTGIT
+
+*hey
+  *sdgf
