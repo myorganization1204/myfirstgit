@@ -1,3 +1,4 @@
-# myfirstgit
+# MYFIRSTGIT
 
--newline
+*heyyy
+
