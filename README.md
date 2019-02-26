@@ -1,4 +1,3 @@
 # MYFIRSTGIT
 
-*hey
-  *sdgf
+*heyyy
